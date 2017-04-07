@@ -1,0 +1,7 @@
+# ***Proyecto FInal Bioinf2017-II***
+
+## **AVANCES 1**
+
+### *Tipo de datos: Datos genómicos propios obtenidos a traves de secuenciación de genomas completos, se procesaran los datos crudos.
+
+### *Análisis a realizar: Genomica comparada, indices de recombinación, coalesencia y detección de islas genomicas.
