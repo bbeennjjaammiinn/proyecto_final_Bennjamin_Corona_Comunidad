@@ -27,7 +27,7 @@ Bajare el programa Brig y quiero comparar al menos tres genomas.
 
 # * Readme
 
-Esto es mi borrador del readme
+Esto es mi borrador del readme [README](https://github.com/bbeennjjaammiinn/proyecto_final_Bennjamin_Corona_Comunidad/blob/master/readmeav3.md)
 
 # * He leído los siguientes artículos:
 
